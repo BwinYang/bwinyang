@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T08:56:38.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CMbbdwzkwy-SOYopvpld" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T08:58:47.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="NncIsOEDEufBK3h_4Scg" version="21.2.2" type="github">
   <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
     <mxGraphModel dx="1434" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bgwNf0LU1zgc09vJRJOy-20" value="通过heytap-cli，暴露子应用mall-goods文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="169" y="568" width="268.5" height="60" as="geometry" />
+          <mxGeometry x="162" y="591" width="268.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bgwNf0LU1zgc09vJRJOy-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bgwNf0LU1zgc09vJRJOy-26" target="bgwNf0LU1zgc09vJRJOy-28">
           <mxGeometry relative="1" as="geometry" />
@@ -51,7 +51,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bgwNf0LU1zgc09vJRJOy-28" value="请求远程文件&lt;br&gt;mall-goods/remoteEntry&lt;br&gt;mall-commons/remoteEntry" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="547.5" y="775" width="163" height="60" as="geometry" />
+          <mxGeometry x="550" y="765" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bgwNf0LU1zgc09vJRJOy-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="bgwNf0LU1zgc09vJRJOy-32" target="bgwNf0LU1zgc09vJRJOy-1">
           <mxGeometry relative="1" as="geometry" />
