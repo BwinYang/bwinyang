@@ -1,20 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T09:26:59.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="m8rlraDNYtYHvT7WNBpP" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T06:22:41.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="cm_1oS1SqrQOuGn8ZFX2" version="21.2.2" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="17ea667e15c223fc-7" value="Store Review 1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="230" y="80" width="120" height="80" as="geometry" />
+        <mxCell id="17ea667e15c223fc-7" value="/admin/mall-goods" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="240" y="107.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ggBbCWUUncZNx9ftbmX3-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="520" width="60" height="30" as="geometry" />
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-1" value="子应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="865" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ggBbCWUUncZNx9ftbmX3-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-2" value="基座" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ggBbCWUUncZNx9ftbmX3-3" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-3" value="访问子应用入口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-4" value="/admin/mall-commons" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="107.5" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="175" width="630" height="435" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-7" value="菜单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-8" value="router" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-11" value="登录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-12" value="4a登录鉴权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-13" value="组装多个子应用菜单数据，生成菜单树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="460" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-14" value="用户信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-15" value="多个子应用菜单数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-16" value="mall-goods" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-17" value="mall-commons" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-19" value="远程文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-21" value="mall-goods/remoteEntry.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="695" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-22" value="mall-commons/remoteEntry.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="695" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggBbCWUUncZNx9ftbmX3-32" value="处理多个子应用菜单数据和remoteEntry.js，生成各个子应用路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="475" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
