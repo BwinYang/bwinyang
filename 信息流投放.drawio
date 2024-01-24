@@ -1,9 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T01:57:58.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.1.18" etag="tqizPkCXrUVMZ0uEKksT" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T02:13:48.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DM-bcbnpmT3NOm61JXZm" version="22.1.18" type="github">
   <diagram name="第 1 页" id="ZKq8zXLXk0dnEt4Aoh0s">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HDhsPYsPphgY9-StyKDm-15" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="300" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="HDhsPYsPphgY9-StyKDm-15">
+          <mxGeometry width="300" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="HDhsPYsPphgY9-StyKDm-16">
+          <mxGeometry width="84" height="87" as="geometry">
+            <mxRectangle width="84" height="87" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="HDhsPYsPphgY9-StyKDm-16">
+          <mxGeometry x="84" width="116" height="87" as="geometry">
+            <mxRectangle width="116" height="87" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="HDhsPYsPphgY9-StyKDm-16">
+          <mxGeometry x="200" width="100" height="87" as="geometry">
+            <mxRectangle width="100" height="87" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="HDhsPYsPphgY9-StyKDm-15">
+          <mxGeometry y="87" width="300" height="323" as="geometry" />
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="HDhsPYsPphgY9-StyKDm-20">
+          <mxGeometry width="84" height="323" as="geometry">
+            <mxRectangle width="84" height="323" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="HDhsPYsPphgY9-StyKDm-20">
+          <mxGeometry x="84" width="116" height="323" as="geometry">
+            <mxRectangle width="116" height="323" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="HDhsPYsPphgY9-StyKDm-20">
+          <mxGeometry x="200" width="100" height="323" as="geometry">
+            <mxRectangle width="100" height="323" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-29" value="直播组件&lt;br&gt;配置成信息流场景" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="700" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-30" value="瀑布流单一栏目组件&lt;br&gt;&lt;br&gt;选择投放广告策略" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="950" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-31" value="信息流广告投放&lt;br&gt;创建投放策略&lt;br&gt;&lt;br&gt;直播关联到某个策略" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="520" y="970" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HDhsPYsPphgY9-StyKDm-29" target="HDhsPYsPphgY9-StyKDm-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="870" as="sourcePoint" />
+            <mxPoint x="710" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-41" value="信息流场景的直播组件列表数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HDhsPYsPphgY9-StyKDm-35">
+          <mxGeometry x="0.1268" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-38" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HDhsPYsPphgY9-StyKDm-31" target="HDhsPYsPphgY9-StyKDm-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1080" as="sourcePoint" />
+            <mxPoint x="440" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDhsPYsPphgY9-StyKDm-39" value="策略列表数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HDhsPYsPphgY9-StyKDm-38">
+          <mxGeometry x="0.0006" y="2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
