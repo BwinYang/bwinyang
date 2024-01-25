@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T03:20:00.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="x2pUp8NIFJAfHiHk8uZd" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T03:24:30.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8fTh4_-oAnG5aAbPjlQx" version="22.1.18" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2686" dy="1192" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -704,10 +704,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RGqC4i0Y6tSjN0pUuo2I-47" value="出现二次确认提示框" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-195" y="3047" width="240" height="80" as="geometry" />
+          <mxGeometry x="-160" y="3047" width="171.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RGqC4i0Y6tSjN0pUuo2I-48" value="关闭确认框" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="127" y="3057" width="120" height="60" as="geometry" />
+          <mxGeometry x="86" y="3054" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGqC4i0Y6tSjN0pUuo2I-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RGqC4i0Y6tSjN0pUuo2I-53" target="RGqC4i0Y6tSjN0pUuo2I-54">
           <mxGeometry relative="1" as="geometry" />
@@ -731,10 +731,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RGqC4i0Y6tSjN0pUuo2I-53" value="接口返回是否成功" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-195" y="3207" width="240" height="80" as="geometry" />
+          <mxGeometry x="-161" y="3175" width="171" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RGqC4i0Y6tSjN0pUuo2I-54" value="toast提示接口报错信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140.5" y="3217" width="120" height="60" as="geometry" />
+          <mxGeometry x="86" y="3182" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RGqC4i0Y6tSjN0pUuo2I-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RGqC4i0Y6tSjN0pUuo2I-59" target="RGqC4i0Y6tSjN0pUuo2I-62">
           <mxGeometry relative="1" as="geometry" />
