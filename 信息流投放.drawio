@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T09:15:56.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="H2eQ0IChSD5FJpPydu-z" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T01:19:30.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="AZaMHVghctPthTdbUaKV" version="24.0.7" type="github">
   <diagram name="第 1 页" id="ZKq8zXLXk0dnEt4Aoh0s">
     <mxGraphModel dx="2261" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,15 +47,11 @@
         <mxCell id="HDhsPYsPphgY9-StyKDm-43" value="新建/编辑" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="-355" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tivRlDreGtwidWBfeTLz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HDhsPYsPphgY9-StyKDm-44" target="tivRlDreGtwidWBfeTLz-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="590" y="-210" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tivRlDreGtwidWBfeTLz-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDhsPYsPphgY9-StyKDm-44" target="tivRlDreGtwidWBfeTLz-104">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HDhsPYsPphgY9-StyKDm-44" value="进入新建页面" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="580" y="-345" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="-345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HDhsPYsPphgY9-StyKDm-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HDhsPYsPphgY9-StyKDm-45" target="HDhsPYsPphgY9-StyKDm-55" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -70,25 +66,8 @@
         <mxCell id="HDhsPYsPphgY9-StyKDm-45" value="信息流广告投放" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="-450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HDhsPYsPphgY9-StyKDm-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tivRlDreGtwidWBfeTLz-1" target="HDhsPYsPphgY9-StyKDm-110" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="190" y="-190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tivRlDreGtwidWBfeTLz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDhsPYsPphgY9-StyKDm-46" target="tivRlDreGtwidWBfeTLz-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="290" y="-240" />
-              <mxPoint x="290" y="-240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tivRlDreGtwidWBfeTLz-15" value="修改后" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tivRlDreGtwidWBfeTLz-4">
-          <mxGeometry x="-0.3412" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="tivRlDreGtwidWBfeTLz-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDhsPYsPphgY9-StyKDm-46" target="tivRlDreGtwidWBfeTLz-94">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HDhsPYsPphgY9-StyKDm-46" value="进入编辑页面" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="-345" width="170" height="60" as="geometry" />
@@ -217,13 +196,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HDhsPYsPphgY9-StyKDm-110" value="回填页面数据&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="-90" width="200" height="60" as="geometry" />
+          <mxGeometry x="115" y="-90" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HDhsPYsPphgY9-StyKDm-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HDhsPYsPphgY9-StyKDm-112" target="HDhsPYsPphgY9-StyKDm-119" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HDhsPYsPphgY9-StyKDm-112" value="页面数据为初始状态" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="580" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HDhsPYsPphgY9-StyKDm-119" value="选择添加直播组件，编辑投放信息" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="389" y="20" width="120" height="60" as="geometry" />
@@ -242,51 +221,29 @@
         <mxCell id="HDhsPYsPphgY9-StyKDm-124" value="1. 信息流名称，必填项，长度20以内&lt;br&gt;2. 生效状态，必填项&lt;br&gt;3.&amp;nbsp;卡片位置，必填项，可填写1-200之间正整数，&lt;span style=&quot;font-size: 13px; font-family: AppleColorEmoji, &amp;quot;Apple Color Emoji&amp;quot;;&quot;&gt;������&lt;/span&gt;&lt;span style=&quot;font-size: 13px; font-family: PingFangSC-Regular, &amp;quot;PingFang SC&amp;quot;;&quot;&gt;不能重复&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="HDhsPYsPphgY9-StyKDm-123" vertex="1">
           <mxGeometry x="1" y="40" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tivRlDreGtwidWBfeTLz-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HDhsPYsPphgY9-StyKDm-46" target="tivRlDreGtwidWBfeTLz-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="-285" as="sourcePoint" />
-            <mxPoint x="190" y="-90" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="140" y="-260" />
-              <mxPoint x="140" y="-260" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tivRlDreGtwidWBfeTLz-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tivRlDreGtwidWBfeTLz-94" target="HDhsPYsPphgY9-StyKDm-110">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tivRlDreGtwidWBfeTLz-14" value="历史" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tivRlDreGtwidWBfeTLz-2">
-          <mxGeometry x="-0.2762" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="tivRlDreGtwidWBfeTLz-94" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-240" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tivRlDreGtwidWBfeTLz-1" value="拉取信息流场景直播数据拉取已保存的数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-200" width="160" height="60" as="geometry" />
+        <mxCell id="tivRlDreGtwidWBfeTLz-99" value="&lt;span style=&quot;text-align: center; text-wrap: nowrap;&quot;&gt;历史：&lt;/span&gt;&lt;div style=&quot;text-align: center; text-wrap: nowrap;&quot;&gt;&lt;div style=&quot;color: rgb(255, 0, 0); text-align: left; text-wrap: wrap;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;1. 拉取信息流场景直播数据拉取已保存的数据&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 0, 0); text-align: left; text-wrap: wrap;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;已保存的数据&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="89" y="-220" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tivRlDreGtwidWBfeTLz-3" value="拉取信息流场景的组件数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="385" y="-240" width="120" height="60" as="geometry" />
+        <mxCell id="tivRlDreGtwidWBfeTLz-100" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap;&quot;&gt;修改后：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;div style=&quot;text-wrap: wrap;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. 拉取信息流场景的组件列表数据&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap;&quot;&gt;&lt;span style=&quot;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;已保存的数据&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#121212;align=left;" vertex="1" parent="1">
+          <mxGeometry x="229" y="-220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tivRlDreGtwidWBfeTLz-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="tivRlDreGtwidWBfeTLz-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="-285" as="sourcePoint" />
-            <mxPoint x="690" y="-90" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="-285" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tivRlDreGtwidWBfeTLz-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tivRlDreGtwidWBfeTLz-104" target="HDhsPYsPphgY9-StyKDm-112">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tivRlDreGtwidWBfeTLz-19" value="历史" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tivRlDreGtwidWBfeTLz-18">
-          <mxGeometry x="-0.2762" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="tivRlDreGtwidWBfeTLz-104" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-230" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tivRlDreGtwidWBfeTLz-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tivRlDreGtwidWBfeTLz-20" target="HDhsPYsPphgY9-StyKDm-112">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="680" y="-120" />
-              <mxPoint x="680" y="-120" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tivRlDreGtwidWBfeTLz-105" value="&lt;span style=&quot;text-align: center; text-wrap: nowrap;&quot;&gt;历史：&lt;/span&gt;&lt;div style=&quot;text-align: center; text-wrap: nowrap;&quot;&gt;&lt;div style=&quot;color: rgb(255, 0, 0); text-align: left; text-wrap: wrap;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;1. 拉取信息流场景直播数据拉取已保存的数据&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="504" y="-210" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tivRlDreGtwidWBfeTLz-20" value="拉取信息流场景直播数据拉取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-200" width="160" height="60" as="geometry" />
+        <mxCell id="tivRlDreGtwidWBfeTLz-106" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap;&quot;&gt;修改后：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;div style=&quot;text-wrap: wrap;&quot;&gt;&lt;span style=&quot;&quot;&gt;1. 拉取信息流场景的组件列表数据&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#121212;align=left;" vertex="1" parent="1">
+          <mxGeometry x="644" y="-210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
