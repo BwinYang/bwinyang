@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T07:14:56.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Q3CdXIiPn8GfpYSsrNTW" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T07:20:53.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="fTbumIchdU1aA2gnipyI" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Tb-03283sjtpAyqhVetA">
     <mxGraphModel dx="1834" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,17 @@
         <mxCell id="EbQze-ob3yoMqO5apH35-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-25" y="43" width="234" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="EbQze-ob3yoMqO5apH35-6" value="用于创建spu，sku，选择关联的品牌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="208" y="34" width="212" height="26" as="geometry" />
+        <mxCell id="EbQze-ob3yoMqO5apH35-6" value="用于创建spu，sku，选择关联的品牌，（oppo，releame，第三方的品牌）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="213" y="34" width="414" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EbQze-ob3yoMqO5apH35-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="13" y="153" width="234" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="EbQze-ob3yoMqO5apH35-9" value="创建c端展示分类页面的类目数据，在创建的子节点上挂在商品（sku）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="144" width="391" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EbQze-ob3yoMqO5apH35-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="17" y="203" width="234" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
