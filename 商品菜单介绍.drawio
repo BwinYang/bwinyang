@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T07:26:37.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Az1fN9zRIbnOgpqsKn1H" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T07:30:17.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MR7A87guMbrLur-KTqnD" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Tb-03283sjtpAyqhVetA">
     <mxGraphModel dx="1834" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="EbQze-ob3yoMqO5apH35-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-21" y="97" width="234" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="EbQze-ob3yoMqO5apH35-9" value="创建c端展示分类页面的类目数据，在创建的子节点上挂在商品（sku）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="141" width="391" height="26" as="geometry" />
+        <mxCell id="EbQze-ob3yoMqO5apH35-9" value="创建c端分类页面的类目数据，在创建的子节点上挂在商品（sku）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="272" y="141" width="367" height="26" as="geometry" />
         </mxCell>
         <mxCell id="EbQze-ob3yoMqO5apH35-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="17" y="203" width="234" height="8" as="geometry" />
@@ -33,6 +33,15 @@
         </mxCell>
         <mxCell id="EbQze-ob3yoMqO5apH35-17" value="C端用的类目数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="222" y="88" width="111" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EbQze-ob3yoMqO5apH35-18" value="后端创建spu，sku" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="212" y="245" width="116" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EbQze-ob3yoMqO5apH35-19" value="spu： 一类商品的集合，多个商品组合而成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="197" y="-89" width="245" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EbQze-ob3yoMqO5apH35-22" value="sku：一个具体的商品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="197" y="-63" width="133" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
