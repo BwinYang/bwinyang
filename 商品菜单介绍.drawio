@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T07:30:17.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MR7A87guMbrLur-KTqnD" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T07:32:27.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="cSbJah3SUDWJCFdu65iM" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Tb-03283sjtpAyqhVetA">
     <mxGraphModel dx="1834" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="EbQze-ob3yoMqO5apH35-22" value="sku：一个具体的商品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="197" y="-63" width="133" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EbQze-ob3yoMqO5apH35-23" value="findx7有不同颜色不同配置的findx7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="199" y="-26" width="202" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
