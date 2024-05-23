@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T08:02:40.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_2ATDdRe9L-Eiw78SoHC" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T08:11:13.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="RnC-6J4lau93nAJnAXpJ" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Tb-03283sjtpAyqhVetA">
     <mxGraphModel dx="1834" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,8 +70,17 @@
         <mxCell id="EbQze-ob3yoMqO5apH35-32" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="43" y="625" width="179" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="EbQze-ob3yoMqO5apH35-33" value="商品的销售属性名， 颜色，配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="231" y="616" width="189" height="26" as="geometry" />
+        <mxCell id="EbQze-ob3yoMqO5apH35-33" value="1. 商品的销售属性名， 颜色，配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="224" y="616" width="203" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EbQze-ob3yoMqO5apH35-35" value="2. 一个属性名关联多个属性值（颜色关联白色，黑色。配置关联，16G+512G， 24G+2T）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="439" y="616" width="497" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EbQze-ob3yoMqO5apH35-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="45" y="678" width="179" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="EbQze-ob3yoMqO5apH35-38" value="一个模板根据多个属性名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="237" y="669" width="150" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
