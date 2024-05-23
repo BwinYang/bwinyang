@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T07:49:55.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Qf91o9Ih5UlTxfqUBN_A" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T07:56:31.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vdXGy7Ji2mWA0qCEVTYh" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Tb-03283sjtpAyqhVetA">
     <mxGraphModel dx="1834" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,15 @@
         </mxCell>
         <mxCell id="EbQze-ob3yoMqO5apH35-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="28" y="420" width="179" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="EbQze-ob3yoMqO5apH35-26" value="卖点属性创建模板用的数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="409" width="162" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EbQze-ob3yoMqO5apH35-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="39" y="471" width="179" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="EbQze-ob3yoMqO5apH35-28" value="根据卖点属性模板关联的后台类目，在创建spu，sku选择类目时，拉取对应的模板数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="464" width="476" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
