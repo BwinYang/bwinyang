@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T02:26:14.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="g2uvtdW6A28ZAlmwic_C" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T02:26:26.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="dPjwUG7VeFat8iDi9veK" version="24.4.7" type="github">
   <diagram name="第 1 页" id="Tb-03283sjtpAyqhVetA">
     <mxGraphModel dx="2104" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
           <mxGeometry x="37" y="938" width="179" height="8" as="geometry" />
         </mxCell>
         <mxCell id="cP8n1a-4RW-pcbxFhc3N-15" value="创建单个服务文案。服务名称，服务icon，服务说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="228" y="932" width="292" height="26" as="geometry" />
+          <mxGeometry x="223.5" y="929" width="292" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
