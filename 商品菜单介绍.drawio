@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T06:42:02.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="HtD2A8xBS7wzmyOAcXq_" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T06:44:51.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tVGXE2xjoN3eBQEfwM1w" version="24.4.7" type="github">
   <diagram name="第 1 页" id="Tb-03283sjtpAyqhVetA">
     <mxGraphModel dx="2104" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,6 +195,24 @@
         </mxCell>
         <mxCell id="cP8n1a-4RW-pcbxFhc3N-47" value="c端商详，3D橱窗的额外配置项，可以配置3D的遮罩蒙层，评价背景图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215.5" y="1549" width="391" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cP8n1a-4RW-pcbxFhc3N-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1" y="1663" width="179" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="cP8n1a-4RW-pcbxFhc3N-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1" y="1711" width="179" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="cP8n1a-4RW-pcbxFhc3N-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2.5" y="1762" width="179" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="cP8n1a-4RW-pcbxFhc3N-51" value="创建spu，sku入口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1654" width="116" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cP8n1a-4RW-pcbxFhc3N-52" value="上架的商品查询列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="176" y="1702" width="126" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cP8n1a-4RW-pcbxFhc3N-53" value="下架的商品查询列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1750" width="126" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
