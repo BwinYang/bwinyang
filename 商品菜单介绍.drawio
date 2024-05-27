@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T01:40:34.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="buK99znKUE5JPs1XoKIm" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T01:41:00.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VM1XfIIC0Zde4sVBPU3m" version="24.4.7" type="github">
   <diagram name="第 1 页" id="Tb-03283sjtpAyqhVetA">
     <mxGraphModel dx="1834" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
           <mxGeometry x="228" y="775" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cP8n1a-4RW-pcbxFhc3N-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="12.5" y="740" width="179" height="8" as="geometry" />
+          <mxGeometry x="5" y="730" width="179" height="8" as="geometry" />
         </mxCell>
         <mxCell id="cP8n1a-4RW-pcbxFhc3N-5" value="创建一个模板，包含的了多个包装清单内容，把包装清单模板关联的后台类目，在创建spu，sku选择类目时，拉取对应的模板数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="228" y="823" width="704" height="26" as="geometry" />
