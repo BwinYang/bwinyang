@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T06:48:39.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qiN6hU1bFt1X1xShfjZp" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T06:52:34.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="k6aZ2LYTJxqpiAqKGCsh" version="24.4.7" type="github">
   <diagram name="第 1 页" id="Tb-03283sjtpAyqhVetA">
     <mxGraphModel dx="2104" dy="1089" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,19 @@
           <mxGeometry x="-21" y="1813" width="179" height="8" as="geometry" />
         </mxCell>
         <mxCell id="cP8n1a-4RW-pcbxFhc3N-55" value="创建、编辑spu,sku送审后的查询列表，审核通过后才会上架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="144.5" y="1804" width="335" height="26" as="geometry" />
+          <mxGeometry x="173" y="1804" width="335" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cP8n1a-4RW-pcbxFhc3N-57" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1" y="1923" width="179" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="cP8n1a-4RW-pcbxFhc3N-58" value="商品库存查询列表，可以对商品库存进行维护" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="191" y="1914" width="258" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cP8n1a-4RW-pcbxFhc3N-60" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3" y="1975" width="179" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="cP8n1a-4RW-pcbxFhc3N-61" value="据说是没用了，还没下掉" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="188.5" y="1966" width="150" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
