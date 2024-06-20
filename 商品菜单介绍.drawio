@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T02:58:42.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="W8Q1nDJE_WYUOBaizCBM" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T02:02:46.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="y7qIB8XuSbDwhIktrfZX" version="24.4.13" type="github">
   <diagram name="第 1 页" id="Tb-03283sjtpAyqhVetA">
     <mxGraphModel dx="2234" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,8 +124,8 @@
         <mxCell id="cP8n1a-4RW-pcbxFhc3N-15" value="创建单个服务文案。服务名称，服务icon，服务说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="223.5" y="929" width="292" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cP8n1a-4RW-pcbxFhc3N-16" value="1. 创建一个服务文案模板，包含的了多个服务文案内容，&lt;div&gt;2. 把服务文案模板关联的后台类目，在创建sku选择类目时，拉取对应的模板数据&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="234" y="967" width="446" height="41" as="geometry" />
+        <mxCell id="cP8n1a-4RW-pcbxFhc3N-16" value="创建一个服务文案模板，包含的了多个服务文案内容，" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="234" y="975" width="306" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cP8n1a-4RW-pcbxFhc3N-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="45" y="988" width="179" height="8" as="geometry" />
